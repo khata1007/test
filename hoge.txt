@@ -1,3 +1,7 @@
 hello
 aaa
+<<<<<<< Updated upstream
 hehe
+=======
+hey
+>>>>>>> Stashed changes
